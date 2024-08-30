@@ -21,7 +21,7 @@
   "author": "http://www.limechain.tech",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "bn": "^1.0.1",
     "chai": "4.1.2",
     "circom": "LimeChain/circom",
@@ -36,15 +36,15 @@
     "find-cache-dir": "2.0.0",
     "fs-extra": "7.0.1",
     "ganache-cli": "^6.12.2",
-    "mocha": "5.2.0",
+    "mocha": "10.7.3",
     "original-require": "1.0.1",
     "require-from-string": "2.0.2",
-    "simple-git": "^1.107.0",
+    "simple-git": "^3.16.0",
     "snarkjs": "LimeChain/snarkjs",
     "solc": "0.7.0",
-    "solidity-coverage": "0.7.2",
+    "solidity-coverage": "0.8.13",
     "tcp-port-used": "^1.0.1",
-    "yargs": "11.0.0"
+    "yargs": "11.1.1"
   },
   "bin": {
     "etherlime": "./cli.js"
